@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UsoFragmentosV4</string>
+    <string name="tab_text_1">CONTACTOS</string>
+    <string name="tab_text_2">FRAGMENTOS</string>
+    <string name="tab_text_3">ADICIONAL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="operaciones">
+        <item>sumar</item>
+        <item>restar</item>
+        <item>multiplicar</item>
+        <item>dividir</item>
+    </string-array>
+
+
+</resources>
